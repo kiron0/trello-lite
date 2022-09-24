@@ -3,7 +3,7 @@ import Main from "./Components/Main";
 function App() {
   return (
     <div style={{ padding: "50px" }}>
-      <h1 style={{ marginBottom: "20px", color: '#000' }}>Trello Lite</h1>
+      <img src="https://logos-world.net/wp-content/uploads/2021/02/Trello-Logo.png" alt="" style={{ width: "100px" }}/>
       <Main />
     </div>
   );
